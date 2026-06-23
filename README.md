@@ -24,6 +24,8 @@ Desarrollador enfocado en construir productos reales — desde aplicaciones móv
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+[![Talento Digital](https://img.shields.io/badge/-TALENTO_DIGITAL-C30B0A?style=for-the-badge&logo=android&logoColor=white)](https://www.acreditta.com/credential/affc71fc-0d00-4da8-a8e5-7abd787479e2)
+
 
 **Web & Backend**
 
