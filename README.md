@@ -25,6 +25,7 @@ Desarrollador enfocado en construir productos reales — desde aplicaciones móv
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 [![Talento Digital](https://img.shields.io/badge/-TALENTO_DIGITAL-C30B0A?style=for-the-badge&logo=android&logoColor=white)](https://www.acreditta.com/credential/affc71fc-0d00-4da8-a8e5-7abd787479e2)
+![VS Code](https://img.shields.io/badge/-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 **Web & Backend**
